@@ -1,0 +1,10 @@
+BOT_TOKEN=8607512419:AAH8OTETCXHALbr5SRMtaRo0wfaJV4UW7ng
+DATABASE_URL=postgresql+asyncpg://postgres:postgres@localhost:5432/triumverat_bot
+ADMIN_TELEGRAM_ID=864433722
+ADMIN_USERNAME=admin
+PHOTOS_PATH=./photos
+PDF_PATH=./pdfs
+LOG_LEVEL=INFO
+LOG_FILE=./logs/bot.log
+DEBUG=False
+ENVIRONMENT=production
